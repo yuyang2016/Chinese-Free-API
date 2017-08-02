@@ -12,3 +12,4 @@
 名称 | 描述 | 地址 | 
 |---|---|---|
 |豆瓣电影|电影信息，剧照，影评等信息|[查看](https://sdk.cn/datas/96)|
+|Bilibili API|Bilibili（哔哩哔哩）开放平台|[查看](https://sdk.cn/datas/5093)
