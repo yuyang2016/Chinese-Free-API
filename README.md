@@ -29,5 +29,12 @@
 |名称|描述|Auth|HTTPS|地址|
 |---|---|---|---|---|
 |快递100| 快递查询接口|apiKey|Yes|[查看](https://www.kuaidi100.com/openapi/applyapi.shtml)|
+|快递鸟|快递查询|apikey|Yes|[查看](http://www.kdniao.com/api-track)|
+
+### 城市
+|名称|描述|Auth|HTTPS|地址|
+|---|---|---|---|---|
+|北京市政务数据|北京本地数据，包含餐饮美食，交通服务，旅游住宿等多类数据。|apikey|Yes|[查看](http://www.bjdata.gov.cn/jkfb/jkazt/jk_jjjs/index.htm)|
+
 
 
