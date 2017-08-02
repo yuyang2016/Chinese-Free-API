@@ -4,9 +4,9 @@
 ## 目录
 
 ### 敏感词过滤
-名称 | 描述 | 地址 | 
-|---|---|---|
-|Hoapi|敏感词过滤|[查看](https://sdk.cn/datas/5156)|
+|名称|描述|Auth|Https|地址|
+|---|---|---|---|---|
+|Hoapi|敏感词过滤|No|NO|[查看](http://www.hoapi.com/index.php/Home/Index/demo)|
 
 ### 影音
 |名称|描述|Auth|Https|地址|
