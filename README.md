@@ -20,7 +20,7 @@
 |PM25.in|中国各大城市空气质量数据|[查看](https://sdk.cn/datas/99)|
 
 ### 天气
-名称 | 描述|Auth|Https|地址| 
+名称 |描述|Auth|Https|地址| 
 |---|---|---|---|---|
 |心知天气|aikey|Yes|提供全球气象数据（个人用户免费）|[查看](https://www.seniverse.com/doc)|
 ### 快递
