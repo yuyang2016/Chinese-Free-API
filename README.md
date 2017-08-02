@@ -9,15 +9,15 @@
 |Hoapi|敏感词过滤|[查看](https://sdk.cn/datas/5156)|
 
 ### 影音
-名称 | 描述 | 地址 | 
-|---|---|---|
-|豆瓣电影|电影信息，剧照，影评等信息|[查看](https://sdk.cn/datas/96)|
-|Bilibili API|Bilibili（哔哩哔哩）开放信息|[查看](https://sdk.cn/datas/5093)|
+|名称|描述|Auth|Https|地址|
+|---|---|---|---|---|
+|豆瓣电影|电影信息，剧照，影评等信息|OAuth|Yes|[查看](https://developers.douban.com/wiki/?title=guide)|
+|Bilibili API|Bilibili（哔哩哔哩）开放信息|apikey|Yes|[查看](https://github.com/fython/BilibiliAPIDocs)|
 
 ### 空气质量
-名称 | 描述 | 地址 | 
-|---|---|---|
-|PM25.in|中国各大城市空气质量数据|[查看](https://sdk.cn/datas/99)|
+|名称|描述|Auth|Https|地址| 
+|---|---|---|---|---|
+|PM25.in|中国各大城市空气质量数据|AppKey|Yes|[查看](http://www.pm25.in/api_doc)|
 
 ### 天气
 |名称|描述|Auth|Https|地址| 
