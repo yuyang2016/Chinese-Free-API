@@ -14,6 +14,7 @@
 |豆瓣电影|电影信息，剧照，影评等信息|OAuth|Yes|[查看](https://developers.douban.com/wiki/?title=guide)|
 |Bilibili API|Bilibili（哔哩哔哩）开放信息|apikey|Yes|[查看](https://github.com/fython/BilibiliAPIDocs)|
 |字幕组API|需开发者发邮件申请API|apikey|Yes|[查看](http://www.zimuzu.tv/)|
+|猫眼电影（非官方）|影院信息，电影信息，评论信息|No|No|[查看](http://www.jianshu.com/p/9855610eb1d4)|
 
 ### 空气质量
 |名称|描述|Auth|Https|地址| 
