@@ -42,7 +42,11 @@
 |---|---|---|---|---|
 |公历农历转换|公历(阳历) 农历(阴历)转换，支持时间段从1900-2100|No|Yes|[查看](https://github.com/isee15/Lunar-Solar-Calendar-Converter)|
 
-
+### 考试
+|名称|描述|Auth|HTTPS|地址|
+|---|---|---|---|---|
+|英语四六级成绩|英语四六级成绩查询|OAuth|Yes|[查看](https://cet.lenshen.com/)|
+|学信网|学籍查询|apikey|Yes|[查看](https://zhaolu1.gitbooks.io/open_platform/content/%E5%AD%A6%E4%BF%A1%E7%BD%91API.html)|
 
 
 
