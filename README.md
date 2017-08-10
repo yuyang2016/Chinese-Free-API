@@ -56,6 +56,6 @@
 ### 时间和日期
 |名称|描述|Auth|HTTPS|地址|
 |---|---|---|---|---|
-|Tizen Time|允许您设置指定时区的时间和日期。|Auth|Yes|[查看](https://developer.tizen.org/zh-hans/community/tip-tech/time-api-guide)|
+|Tizen Time|设置指定时区的时间和日期。|Auth|Yes|[查看](https://developer.tizen.org/zh-hans/community/tip-tech/time-api-guide)|
 
 
