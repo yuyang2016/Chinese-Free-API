@@ -48,7 +48,10 @@
 |英语四六级成绩|英语四六级成绩查询|OAuth|Yes|[查看](https://cet.lenshen.com/)|
 |学信网|学籍查询|apikey|Yes|[查看](https://zhaolu1.gitbooks.io/open_platform/content/%E5%AD%A6%E4%BF%A1%E7%BD%91API.html)|
 
-
+### 彩票
+|名称|描述|Auth|HTTPS|地址|
+|---|---|---|---|---|
+|开彩网|彩票开奖API|No|No|[查看](http://www.opencai.net/apifree/)|
 
 
 
