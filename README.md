@@ -53,6 +53,9 @@
 |---|---|---|---|---|
 |开彩网|彩票开奖API|No|No|[查看](http://www.opencai.net/apifree/)|
 
-
+### 时间和日期
+|名称|描述|Auth|HTTPS|地址|
+|---|---|---|---|---|
+|Tizen Time|允许您设置指定时区的时间和日期。|Auth|Yes|[查看](https://developer.tizen.org/zh-hans/community/tip-tech/time-api-guide)|
 
 
