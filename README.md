@@ -67,6 +67,13 @@
 ### 出行
 |名称|描述|Auth|HTTPS|地址|
 |---|---|---|---|---|
-|12306|火车票票数、票价查询(非官方)|No|Yes|[查看](https://github.com/jokermonn/-Api/blob/master/12306.md)
+|12306|火车票票数、票价查询(非官方)|No|Yes|[查看](https://github.com/jokermonn/-Api/blob/master/12306.md)|
 
+### 开发者网站
+|名称|描述|Auth|HTTPS|地址|
+|---|---|---|---|---|
+|V2EX|V2EX API 接口|No|No|[查看](https://www.v2ex.com/p/7v9TEc53)|
+|开源中国|开源中国开放平台|OAuth|Yes|[查看](http://www.oschina.net/openapi)|
+|干货集中营|干货集中营 API|No|No|[查看](http://gank.io/api)|
+|DIYCode|DiyCode API|OAuth|Yes|[查看](https://www.diycode.cc/api)|
 
